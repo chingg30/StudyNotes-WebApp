@@ -1,7 +1,5 @@
 Web Application
-"# Studynotes" 
-"# Studynotes" 
-
+"# Project 10_StudyNotes" 
 
 Frontend = Notes-Frontend files = jsx,html,css,js,react
 
