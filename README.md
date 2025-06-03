@@ -4,6 +4,7 @@
 
 
 Frontend = Notes-Frontend files = jsx,html,css,js,react
+
 BackEnd = PHP Files ito yung nakalagay sa files ng wampp
 
         sample account in login
